@@ -1,5 +1,7 @@
 fr.redstom.betterpluginsapi.commands
+fr.redstom.betterpluginsapi.database
 fr.redstom.betterpluginsapi.events
 fr.redstom.betterpluginsapi.inventory
 fr.redstom.betterpluginsapi.items
 fr.redstom.betterpluginsapi.plugin
+fr.redstom.betterpluginsapi.users
